@@ -11,7 +11,7 @@
         <div class="flex items-center gap-3 mb-6">
           <span class="w-8 h-px bg-[var(--color-clay)]" />
           <span class="font-sans text-[10px] tracking-[0.3em] uppercase text-[var(--color-clay-light)]">
-            Handcrafted in Pune since 2004
+            Handcrafted in Ajmer since 2025
           </span>
         </div>
         <h1 class="font-serif text-[clamp(3rem,7vw,5.5rem)] leading-[1.08] text-[var(--color-sand-light)] mb-6">

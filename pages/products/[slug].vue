@@ -134,7 +134,7 @@ watch(product, (p: any) => { if (p) { form.product = p.name; form.interest = `${
 const guarantees = [
   { label: 'Lifetime Guarantee', icon: ShieldCheckIcon },
   { label: 'Sustainably Sourced', icon: LeafIcon },
-  { label: 'Free Delivery, Pune', icon: TruckIcon },
+  { label: 'Free Delivery, Ajmer', icon: TruckIcon },
 ]
 useSeoMeta({ title: computed(() => `${(product.value as any)?.name || 'Product'} — Sawariya Seth Furniture`) })
 useScrollReveal()
